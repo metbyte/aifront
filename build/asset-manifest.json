@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/losstaande-ai-client-v3n/static/js/main.1ba22b24.js",
+    "static/media/blurbg.jpg": "/losstaande-ai-client-v3n/static/media/blurbg.323b251d0e19b0d9b5be.jpg",
+    "index.html": "/losstaande-ai-client-v3n/index.html",
+    "main.1ba22b24.js.map": "/losstaande-ai-client-v3n/static/js/main.1ba22b24.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1ba22b24.js"
+  ]
+}
