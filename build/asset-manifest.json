@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/aifront/static/js/main.bb2112c8.js",
+    "main.js": "/aifront/static/js/main.ffd8d091.js",
     "static/media/blurbg.jpg": "/aifront/static/media/blurbg.323b251d0e19b0d9b5be.jpg",
     "index.html": "/aifront/index.html",
-    "main.bb2112c8.js.map": "/aifront/static/js/main.bb2112c8.js.map"
+    "main.ffd8d091.js.map": "/aifront/static/js/main.ffd8d091.js.map"
   },
   "entrypoints": [
-    "static/js/main.bb2112c8.js"
+    "static/js/main.ffd8d091.js"
   ]
 }
