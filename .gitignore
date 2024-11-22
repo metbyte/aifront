@@ -10,6 +10,7 @@ predeploy.sh
 # testing
 /coverage
 
+*.js.map
 
 # misc
 .DS_Store
